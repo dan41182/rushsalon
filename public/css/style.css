@@ -63,7 +63,8 @@ nav {
     nav .logo:hover {
       background-color: transparent !important; }
   nav ul {
-    padding-top: 100px; }
+    padding-top: 100px;
+    overflow: hidden; }
   nav i {
     color: black; }
 
